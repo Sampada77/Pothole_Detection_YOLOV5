@@ -1,0 +1,7 @@
+train: ..\images\train
+val: ..\images\valid
+#test: ..\data\Test_data
+ 
+# Classes
+nc: 1  # number of classes
+names: ['pothole']  # class names
